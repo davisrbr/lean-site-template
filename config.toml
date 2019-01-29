@@ -25,7 +25,7 @@ DefaultContentLanguage = "en"
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
   fullTitle = "UNC Effective Altruism"
-  strapline = "Helping you do good better"
+  strapline = "Bringing together UNC students to do good better"
 
   [Languages.en.groupinfo]
   ## -- EA GROUP INFO -- ##
