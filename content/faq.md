@@ -5,7 +5,8 @@ draft: false
 ---
 # Arete Fellowship Announcement
 
-## INTRODUCTION
+
+### INTRODUCTION
 
 Some efforts to improve the world can be much more impactful than others. Smallpox eradication, the abolitionist movement, development of germ theory, and the Green Revolution are just a few examples which illustrate what's possible when people come together to solve pressing problems. But those projects are few and far between. At the other end of the spectrum, many well-intended initiatives are ineffective or even counterproductive. Discerning between the good and bad is the perennial challenge every generation faces, and yet the coming century is poised to be the most consequential yet: how we maneuver such challenges over the next hundred years may drastically affect the trajectory of humankind.
 
@@ -24,18 +25,18 @@ The EA network is the group of people who share this mission, many of whom have 
 
 The Arete Fellowship offers a deep, semester-long dive into the Effective Altruism movement. 
 
-## Why should you care? 
+### Why should you care? 
 
 EA is multifaceted, so its principles have different consequences for different individuals; each of us has unique interests and skills to offer. Given limited time, EA UNC is looking to invest significant time in a small number of individuals, keen to learn how they can have a significant impact on society with their lives and careers (which turns out to be both rarer and easier than most people think!).
 This is not an introduction to the infrastructures of philanthropy, university policy or foreign aid, nor is this a course in activism. Our objective is to change the way you think about philanthropy and impact, and to help you leverage your own skills and interests—whether you’re a computer wizard, legal buff, biohacker or policy wonk—to solve problems that can improve, or even save, the lives of hundreds of people around the world (problems often neglected by traditional philanthropy).
 The organizers of EA UNC are majoring and minoring in computer science, biology, statistics, mathematics, philosophy, political science, economics, neuroscience and more. The Fellowship will plug you in to a network of people from diverse backgrounds and interests—both at UNC and beyond—who share the same ambition to do good better. Please join us!
 
 
-## Fellowship structure
+### Fellowship structure
 
 The Fellowship takes place over the course of 9 weeks. Each week consists of a set of study resources and a class seminar. The resources take approximately one hour to complete and must be finished in preparation for the weekly discussion. Additionally, Fellows will be able to schedule a time for 1-on-1 career consulting anytime after week 3, though such consultation may be most valuable after week 7. All of this is flexible.
 
-## Expectations
+### Expectations
 
 We expect fellows to embody these four traits:
 Enthusiasm to do good better
@@ -49,35 +50,36 @@ During the Fellowship we will cover a wide range of fields and methodologies. No
 
 UNC EA’s limited resources include time; we expect Fellows to make the most of it. Participants should treat the Fellowship like a one-credit course with one hour of homework and an hour and a half of “class-time” per week. To complete the Fellowship, fellows must also write a 400-500 word blog post for UNC Effective Altruism on a topic of their choice.
 
-## Attendance
+### Attendance
 
 Fellows must complete materials and attend meetings weekly. If a fellow cannot attend a meeting, they should let EA UNC organizers know beforehand, and we will try to set up another time to discuss the week’s materials 1-on-1.
 Upon Completion of the Fellowship
 Fellows may list the Fellowship on their résumé or CV, and are invited to join Effective Altruism UNC. Additionally, all Arete alumni can request a peer reference or letter of recommendation from their Fellowship leaders at any time and are encouraged to take advantage of this. Fellowship leaders are dedicated to helping alumni have the opportunities that will make them more effective altruists throughout their lives.
 
-## Curriculum
+### Curriculum
 
 The Fellowship takes place over 9 weeks. Weeks 1-7 and 9 have a set curriculum and week 8 is a discussion of Fellow-submitted topics.
 
-Overview of Weeks (subject to small changes)
+**Overview of Weeks (subject to small changes)**
 
-EA-daimonia: An Introduction to Effective Altruism
+1. EA-daimonia: An Introduction to Effective Altruism
 
-The Science of Doing Good
+2. The Science of Doing Good
 
-Cause Evaluation
+3. Cause Evaluation
 
-Causes 1.0: Global Poverty, Global Health & Animal Welfare
+4. Causes 1.0: Global Poverty, Global Health & Animal Welfare
 
-Causes 2.0: Climate Change & Movement-Building
+5. Causes 2.0: Climate Change & Movement-Building
 
-Causes 3.0: Existential/Global Catastrophic Risks & The Far Future
+6. Causes 3.0: Existential/Global Catastrophic Risks & The Far Future
 
-Those 80,000 Hours...
+7. Those 80,000 Hours...
 
-Fellow Topics
+8. Fellow Topics
 
-Graduation & Debrief
+9. Graduation & Debrief
 
 For more information, contact us at: effective.altruism.unc@gmail.com
+
 To apply, go to: https://bit.ly/2FqsQpP 
