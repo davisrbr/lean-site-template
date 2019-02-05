@@ -3,6 +3,11 @@ title: "FAQ"
 date: 2017-12-27T02:15:52-08:00
 draft: false
 ---
+Apply for the Arete Fellowship now at https://bit.ly/2FqsQpP
+
+
+
+
 # Arete Fellowship Announcement
 
 
