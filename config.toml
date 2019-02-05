@@ -18,7 +18,7 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "UNC Effective Altruism"
+  title = "UNC EA"
   weight = 1
   languageCode = "en"
 
