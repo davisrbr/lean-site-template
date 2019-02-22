@@ -3,8 +3,7 @@ title: "FAQ"
 date: 2017-12-27T02:15:52-08:00
 draft: false
 ---
-Apply for the Arete Fellowship now at https://bit.ly/2FqsQpP
-
+The application for the Spring 2019 Arete Fellowship is now closed. Check back next semester, Fall 2019, to be in our next cohort!
 
 
 
